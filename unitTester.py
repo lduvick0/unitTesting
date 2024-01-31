@@ -73,7 +73,7 @@ def play_cards(left1, left2, left3, right1, right2, right3):
         return 0
     #check hands through each check individually, create value storage for return value and int linked to which hand left and right has
 
-play_cards('S2','S3','S3', 'SQ','SK','SA')
+
 
 
 # This method takes three cards for the left player (left1, left2, left3) and three cards for the right player (right1, right2, right3)
